@@ -1,4 +1,4 @@
-package Lab_8;
+package Lab8;
 
 import java.util.*;
 
